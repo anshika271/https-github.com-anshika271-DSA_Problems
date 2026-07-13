@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
