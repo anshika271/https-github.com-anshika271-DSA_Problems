@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [2401-longest-nice-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2401-longest-nice-subarray) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
