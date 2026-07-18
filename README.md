@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Number Theory
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
