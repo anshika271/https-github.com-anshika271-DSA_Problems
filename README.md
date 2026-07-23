@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
