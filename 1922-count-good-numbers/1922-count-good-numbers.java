@@ -1,6 +1,6 @@
 class Solution {
-   static final int m = 1000000007;
-    public static long fun(long x,long n){
+    final int m = 1000000007;
+    public  long fun(long x,long n){
         if(n==0){
             return 1;
         }
