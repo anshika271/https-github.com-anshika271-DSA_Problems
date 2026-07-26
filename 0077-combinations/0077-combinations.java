@@ -1,14 +1,17 @@
 class Solution {
     List<List<Integer>>ans=new ArrayList<>();
     public  void fun(ArrayList<Integer>listt,int idx,int k,ArrayList<Integer>list){
-        if(idx==listt.size()){
-            if(list.size()==k){
+        if(list.size()==k){
+           
              ans.add(new ArrayList<>(list));
-            }
+            
             
                  return;
             
             
+        }
+        if(idx==listt.size()){
+            return;
         }
         
         list.add(listt.get(idx));
