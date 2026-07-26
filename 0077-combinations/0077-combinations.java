@@ -5,8 +5,12 @@ class Solution {
             if(list.size()==k){
              ans.add(new ArrayList<>(list));
             }
-            return;
+            
+                 return;
+            
+            
         }
+        
         list.add(listt.get(idx));
         fun(listt,idx+1,k,list);
         list.remove(list.size()-1);
