@@ -9,15 +9,15 @@ class Solution {
             return ;
            }
             if(sum>target){
-                return ;
+                return;
             }
 
         
-        if(candidates[idx]<=target){
+        // if(candidates[idx]<=target){
         list.add(candidates[idx]);
         fun(candidates,idx,target,sum+candidates[idx],list);
          list.remove(list.size()-1);
-        }
+        
         
           fun(candidates,idx+1,target, sum,list);
 }
