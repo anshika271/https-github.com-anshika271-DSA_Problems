@@ -15,10 +15,11 @@ class Solution {
         
         // if(candidates[idx]<=target){
         list.add(candidates[idx]);
-        fun(candidates,idx,target,sum+candidates[idx],list);
+       sum= sum+candidates[idx];
+        fun(candidates,idx,target,sum,list);
          list.remove(list.size()-1);
         
-        
+        sum=sum-candidates[idx];
           fun(candidates,idx+1,target, sum,list);
 }
     
