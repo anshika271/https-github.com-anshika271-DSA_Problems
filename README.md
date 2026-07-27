@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2810-faulty-keyboard](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2401-longest-nice-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2401-longest-nice-subarray) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
