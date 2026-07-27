@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0077-combinations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
