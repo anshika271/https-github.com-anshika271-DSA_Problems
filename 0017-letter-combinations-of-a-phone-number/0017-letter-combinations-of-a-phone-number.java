@@ -1,6 +1,6 @@
 class Solution {
    public static void fun(String digits,String p,int idx,ArrayList<String>list,HashMap<Character,String>mp){
-    if(idx>=digits.length()){
+    if(idx==digits.length()){
         list.add(p);
         return;
     }
