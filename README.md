@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
