@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2810-faulty-keyboard](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
