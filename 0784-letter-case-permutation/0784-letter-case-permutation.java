@@ -14,11 +14,11 @@ class Solution {
         else{
             sb.append(Character.toUpperCase(s.charAt(idx)));
             fun(idx+1,s);
-            sb.deleteCharAt(idx);
+            sb.deleteCharAt(sb.length()-1);
 
              sb.append(Character.toLowerCase(s.charAt(idx)));
             fun(idx+1,s);
-            sb.deleteCharAt(idx);
+            sb.deleteCharAt(sb.length()-1);
         }
     }
     public List<String> letterCasePermutation(String s) {
