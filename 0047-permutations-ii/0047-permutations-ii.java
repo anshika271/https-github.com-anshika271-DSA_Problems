@@ -7,16 +7,14 @@ class Solution {
         }
         for(int num:mp.keySet()){
 
-            if(mp.get(num)==0){
-                continue;
-            }
+            if(mp.get(num)>0){
                 list.add(num);
                 mp.put(num,mp.getOrDefault(num,0)-1);
                  fun(nums,list,mp);
                
                  list.remove(list.size()-1);
                   mp.put(num,mp.getOrDefault(num,0)+1);
-            
+            }
            
         }
     }
