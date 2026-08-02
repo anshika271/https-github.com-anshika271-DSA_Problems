@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0090-subsets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0047-permutations-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1288-remove-covered-intervals) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0090-subsets-ii) |
