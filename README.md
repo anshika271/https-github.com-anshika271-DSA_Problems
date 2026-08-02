@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2401-longest-nice-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2401-longest-nice-subarray) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
