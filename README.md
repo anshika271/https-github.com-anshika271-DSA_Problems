@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0541-reverse-string-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0696-count-binary-substrings) |
 | [0784-letter-case-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0784-letter-case-permutation) |
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
