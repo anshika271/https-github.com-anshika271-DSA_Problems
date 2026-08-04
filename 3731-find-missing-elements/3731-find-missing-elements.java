@@ -12,7 +12,7 @@ class Solution {
             st.add(nums[i]);
         }
         
-      System.out.println(min + " "+max);
+     
         for(int i=min;i<max;i++){
            if(!st.contains(i+1)){
             list.add(i+1);
