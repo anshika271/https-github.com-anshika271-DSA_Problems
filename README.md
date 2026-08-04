@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0766-toeplitz-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
