@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0090-subsets-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1260-shift-2d-grid) |
