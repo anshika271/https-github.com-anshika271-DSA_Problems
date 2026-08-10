@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0078-subsets) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0066-plus-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
