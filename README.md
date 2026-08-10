@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
