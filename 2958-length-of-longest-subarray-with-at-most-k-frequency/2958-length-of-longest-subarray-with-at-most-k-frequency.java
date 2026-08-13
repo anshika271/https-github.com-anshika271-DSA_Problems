@@ -12,9 +12,9 @@ class Solution {
         while(mp.get(nums[i])>k){
             
            mp.put(nums[j],mp.getOrDefault(nums[j],0)-1);
-           if(mp.get(nums[j])==0){
-            mp.remove(nums[j]);
-           }
+        //    if(mp.get(nums[j])==0){
+        //     mp.remove(nums[j]);
+        //    }
            j++;  
         }
         
