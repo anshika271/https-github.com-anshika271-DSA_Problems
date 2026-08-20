@@ -12,15 +12,14 @@ class Solution {
                 list2.add(nums[i]);
             }
         }
-        System.out.println(list1);
-         System.out.println(list2);
+       
         int[]arr=new int[nums.length];
         int k=0;
-        for(int i=0;i<list1.size();i++){
-            arr[k++]=list1.get(i);
+        for(int i:list1){
+            arr[k++]=i;
         }
-        for(int i=0;i<list2.size();i++){
-            arr[k++]=list2.get(i);
+        for(int i:list2){
+            arr[k++]=i;
         }
         return arr;
     }
