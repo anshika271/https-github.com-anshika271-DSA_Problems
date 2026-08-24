@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0766-toeplitz-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0766-toeplitz-matrix) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
