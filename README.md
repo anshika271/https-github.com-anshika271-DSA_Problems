@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0047-permutations-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0860-lemonade-change) |
