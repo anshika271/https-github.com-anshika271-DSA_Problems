@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2810-faulty-keyboard](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
