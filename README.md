@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0766-toeplitz-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0766-toeplitz-matrix) |
+| [0860-lemonade-change](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1288-remove-covered-intervals) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
