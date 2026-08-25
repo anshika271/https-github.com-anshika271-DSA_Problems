@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
