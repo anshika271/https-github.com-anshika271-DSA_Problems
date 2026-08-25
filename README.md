@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2401-longest-nice-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2401-longest-nice-subarray) |
+| [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
 | [2899-last-visited-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2899-last-visited-integers) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -360,11 +363,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -377,4 +382,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
