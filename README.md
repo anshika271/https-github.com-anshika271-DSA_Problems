@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2899-last-visited-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2899-last-visited-integers) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2810-faulty-keyboard) |
+| [2899-last-visited-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2899-last-visited-integers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
