@@ -66,7 +66,9 @@ class Solution {
             }
             int n1=nums[i];
             int target=-n1;
-
+        if(nums[i]>0){
+            break;
+        }
            twoSum(nums,target,i+1,n-1);
             
         }
