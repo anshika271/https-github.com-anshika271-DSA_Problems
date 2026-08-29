@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0073-set-matrix-zeroes) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
