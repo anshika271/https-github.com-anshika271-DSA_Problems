@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0696-count-binary-substrings) |
 | [0784-letter-case-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0784-letter-case-permutation) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -403,5 +407,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
