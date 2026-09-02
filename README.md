@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2401-longest-nice-subarray) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
