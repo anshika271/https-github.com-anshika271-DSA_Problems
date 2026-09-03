@@ -18,7 +18,7 @@ class Solution {
        }
        String ans="";
        int n=st.size();
-       System.out.println(st);
+    //    System.out.println(st);
      for(int i=0;i<n;i++){
        ans=ans+st.peek();
        st.pop();
