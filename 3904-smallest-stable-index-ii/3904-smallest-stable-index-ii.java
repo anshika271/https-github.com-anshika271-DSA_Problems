@@ -12,12 +12,12 @@ class Solution {
        for(int i=nums.length-2;i>=0;i--){
         min[i]=Math.min(min[i+1],nums[i]);
        }
-      int idx=Integer.MAX_VALUE;
+      int idx=-1;
        for(int i=0;i<nums.length;i++){
          if(max[i]-min[i]<=k){
-            idx=Math.min(idx,i);
+           return i;
          }
        }
-       return idx==Integer.MAX_VALUE?-1:idx;
+       return -1;
     }
 }
