@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -479,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
