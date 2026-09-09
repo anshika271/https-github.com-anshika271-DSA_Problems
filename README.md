@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
