@@ -10,7 +10,7 @@ class Solution {
                     continue;
                 }
                int num=digits[i]*100+digits[j]*10+digits[k]*1;
-               if(digits[i]!=0 && num>=100 && num%2==0){
+               if( num>=100 && num%2==0){
                   st.add(num);
                }
               }  
