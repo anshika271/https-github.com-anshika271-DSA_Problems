@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
