@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0402-remove-k-digits) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
