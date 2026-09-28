@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
