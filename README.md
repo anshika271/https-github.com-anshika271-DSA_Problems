@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0409-longest-palindrome) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0784-letter-case-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
