@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [0846-hand-of-straights](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0860-lemonade-change) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2104-sum-of-subarray-ranges) |
