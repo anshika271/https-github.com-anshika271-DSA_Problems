@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0784-letter-case-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0784-letter-case-permutation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2401-longest-nice-subarray) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0543-diameter-of-binary-tree) |
