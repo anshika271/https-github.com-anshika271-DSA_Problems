@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0055-jump-game) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
