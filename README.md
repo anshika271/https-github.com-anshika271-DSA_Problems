@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1046-last-stone-weight](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
