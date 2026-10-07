@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0409-longest-palindrome) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0784-letter-case-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0301-remove-invalid-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
