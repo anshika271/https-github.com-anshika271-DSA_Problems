@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
 |  |
 | ------- |
