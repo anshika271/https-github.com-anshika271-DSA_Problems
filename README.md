@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2762-continuous-subarrays](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2762-continuous-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2899-last-visited-integers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2899-last-visited-integers) |
 | [2942-find-words-containing-character](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1291-sequential-digits) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
