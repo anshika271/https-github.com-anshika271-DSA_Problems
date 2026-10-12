@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1710-maximum-units-on-a-truck](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1929-concatenation-of-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
