@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
