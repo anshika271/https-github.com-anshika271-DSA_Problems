@@ -14,21 +14,19 @@
  * }
  */
 class Solution {
-    public static void fun(TreeNode root){
-        
-        if(root==null){
-            return;
-        }
+    public TreeNode invertTree(TreeNode root) {
+     if(root==null || (root.left==null && root.right==null)){
+        return root;
+     }
         TreeNode temp=root.left;
         root.left=root.right;
         root.right=temp;
-        fun(root.left);
-        fun(root.right);
-
-    }
-    public TreeNode invertTree(TreeNode root) {
-        
-      fun(root);
-      return root;  
+        // root.left= 
+        invertTree(root.left);
+    //  root.right=
+     invertTree(root.right);
+      
+     
+      return root;
     }
 }
