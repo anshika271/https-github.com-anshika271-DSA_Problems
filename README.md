@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
