@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0766-toeplitz-matrix) |
 | [0846-hand-of-straights](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0860-lemonade-change) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
 |  |
