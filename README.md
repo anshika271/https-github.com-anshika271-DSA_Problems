@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0238-product-of-array-except-self) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0509-fibonacci-number) |
