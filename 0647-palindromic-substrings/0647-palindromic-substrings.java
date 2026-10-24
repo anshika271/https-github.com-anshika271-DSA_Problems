@@ -22,9 +22,9 @@ class Solution {
         }
         int count=0;
         for(int i=0;i<s.length();i++){
-            String p="";
+           
             for(int j=i;j<s.length();j++){
-              p=p+s.charAt(j);
+           
               if(solve(i,j,s)==1){
                   count++;
               }
