@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
