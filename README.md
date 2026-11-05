@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0692-top-k-frequent-words) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0621-task-scheduler) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/anshika271/https-github.com-anshika271-DSA_Problems/tree/master/3903-smallest-stable-index-i) |
