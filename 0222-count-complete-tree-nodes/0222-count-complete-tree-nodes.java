@@ -14,33 +14,61 @@
  * }
  */
 class Solution {
-    public static int getlh(TreeNode root){
-        int lh=0;
-        TreeNode temp=root;
-        while(temp!=null){
-            lh++;
-            temp=temp.left;
-        }
-        return lh;
+    // public static int getlh(TreeNode root){
+    //     int lh=0;
+    //     TreeNode temp=root;
+    //     while(temp!=null){
+    //         lh++;
+    //         temp=temp.left;
+    //     }
+    //     return lh;
+    // }
+    //  public static int getrh(TreeNode root){
+    //     int rh=0;
+    //     TreeNode temp=root;
+    //     while(temp!=null){
+    //         rh++;
+    //         temp=temp.right;
+    //     }
+    //     return rh;
+    // }
+
+    public static int fun(TreeNode root){
+         if(root==null){
+            return 0;
+         }
+         
+         return 1+fun(root.left);
     }
-     public static int getrh(TreeNode root){
-        int rh=0;
-        TreeNode temp=root;
-        while(temp!=null){
-            rh++;
-            temp=temp.right;
+
+    public static int fn(TreeNode root){
+        if(root==null){
+            return 0;
         }
-        return rh;
+        return 1+fn(root.right);
     }
     public int countNodes(TreeNode root) {
-      if(root==null){
+    //   if(root==null){
+    //     return 0;
+    //   } 
+    //   int lh=getlh(root);
+    //   int rh=getrh(root);
+    //   if(lh==rh){
+    //     return (int)(Math.pow(2,lh)-1);
+    //   }
+    //   return 1+countNodes(root.left)+countNodes(root.right);
+
+    if(root==null){
         return 0;
-      } 
-      int lh=getlh(root);
-      int rh=getrh(root);
-      if(lh==rh){
+    }
+
+    int lh=fun(root);
+    int rh=fn(root);
+
+    if(lh==rh){
         return (int)(Math.pow(2,lh)-1);
-      }
-      return 1+countNodes(root.left)+countNodes(root.right);
+    }
+
+    return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
